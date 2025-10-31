@@ -1,4 +1,4 @@
-package DAYTWENTY.v1;
+package DAYTWENTY;
 
 import java.util.Arrays;
 import java.util.List;
